@@ -1,0 +1,9 @@
+textlocal
+veleka@taskscbo.com
+
+
+URL : https://api.txtlocal.com/send/
+
+params: sender, numbers, message, apiKey = 0qXSf0TUwRQ-X4BlkLvv3rGdx9WcRcTQjPfFuXoHXh
+
+https://api.txtlocal.com/send?apiKey=0qXSf0TUwRQ-X4BlkLvv3rGdx9WcRcTQjPfFuXoHXh&sender=supun&message=test&numbers=0094711514190
